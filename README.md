@@ -27,7 +27,7 @@ I'm **Jacob Hanks**, a tinkerer, a developer, and an eternal student.
 
 I believe in:
 - Automation over repetition
-- Open-source over black boxes
+- Open-source is based
 - Learning by breaking things (and fixing them)
 
 ---
