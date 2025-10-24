@@ -11,7 +11,7 @@ I'm **Jacob Hanks**, a tinkerer, a developer, and an eternal student.
 
 ## 🖥️ What I'm Doing
 
-- **Gameboy Emulator**: *Attempting to* write a Gameboy emulator in C++.
+- **Static Site Generator**: Writing a static site generator in Python
 - **Distillery Website**: Making a static site for a local distillery.
 - **NixOS Configuration**: _The eternal project..._
 - **FDM Printer Stuff**: _The other eternal project..._
@@ -25,10 +25,9 @@ I'm **Jacob Hanks**, a tinkerer, a developer, and an eternal student.
 
 ## 💭 Philosophy
 
-I believe in:
-- Automation over repetition
+I believe:
 - Open-source is based
-- Learning by breaking things (and fixing them)
+- Learning by breaking things (and fixing them) is the best way to learn
 
 ---
 
