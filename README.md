@@ -1,20 +1,19 @@
 # Hi there! 👋
 
-I'm **Jacob Hanks**, a tinkerer, a developer, and an eternal student.
+I'm **Jacob**, a tinkerer.
 
 ## 🛠️ What I'm Into
 
-- **Linux Enthusiast**: Currently on my NixOS arc
-- **3D Printing**: Vorons
+- **Linux Enthusiast**: Specifically NixOS
+- **3D Printing**:
 - **Low Level Development**
-- **Learning New Tech**
+- **Learning New Things**
 
 ## 🖥️ What I'm Doing
 
-- **Static Site Generator**: Writing a static site generator in Python
-- **Distillery Website**: Making a static site for a local distillery.
-- **NixOS Configuration**: _The eternal project..._
-- **FDM Printer Stuff**: _The other eternal project..._
+- **Discord Bot**: Discord Bot to keep track of movie nights/book club meetings
+- **NixOS Configuration(s)**
+- **FDM Printer Stuff**:
 
 ## 📌 Featured Projects
 
@@ -22,13 +21,13 @@ I'm **Jacob Hanks**, a tinkerer, a developer, and an eternal student.
 - **[Human Domino Effect Game](https://github.com/quanchobi/499-HumanDominoEffect-spring2025)** - A teaching game volunteer project
 - **[Shadowheart](https://github.com/quanchobi/Shadowheart)/[Theseus](https://github.com/quanchobi/Theseus)** - Klipper configs for my custom 3D printers
 - **[Recipe Suggester](https://github.com/quanchobi/499-HumanDominoEffect-spring2025)** - CLI AI-based recipe suggester, using custom models + OpenAI API
-
+- **[Static Site Generator](https/github.com/quanchobi/static-site-generator)** - Simple static site generator that deploys to GitHub Pages
 ## 💭 Philosophy
 
 I believe:
 - Open-source is based
-- Learning by breaking things (and fixing them) is the best way to learn
-
+- Learn by doing
 ---
 
-**👉 You can find more on my [blog](https://quanchobi.io)**
+> *Maybe you have some bird ideas. Maybe that's the best you can do*
+> --- Terry A Davis
