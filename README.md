@@ -1,32 +1,23 @@
-# Hi there! 👋
+## Hi there! 👋
 
-I'm **Jacob**, a tinkerer.
+I'm **Jacob**, and I'm a...
+- Sustaining Engineer at [Canonical](https://github.com/canonical)
+- Computer Science and Mathematics B.Sc. from the University of Kentucky
 
-## 🛠️ What I'm Into
+I enjoy...
+- **Building 3D printers** [a](https://github.com/quanchobi/Shadowheart), [b](https://github.com/quanchobi/Theseus)
+- **Configurating with Nix** [a](https://github.com/quanchobi/nixos), [b](https://github.quanchobi/home-manager), [c](https://github.com/quanchobi/nixvim)
+- **Writing Impactful Software** [a](https://github.com/quanchobi/499-HumanDominoEffect-spring2025), [b](https://web.archive.org/web/20240324171206/https://biketomom.com/)(archive)
 
-- **Linux Enthusiast**: Specifically NixOS
-- **3D Printing**:
-- **Low Level Development**
-- **Learning New Things**
-
-## 🖥️ What I'm Doing
-
-- **Discord Bot**: Discord Bot to keep track of movie nights/book club meetings
-- **NixOS Configuration(s)**
-- **FDM Printer Stuff**:
-
-## 📌 Featured Projects
-
-- **[nixos](https://github.com/quanchobi/nixos)** - My NixOS configuration flake(s)
-- **[Human Domino Effect Game](https://github.com/quanchobi/499-HumanDominoEffect-spring2025)** - A teaching game volunteer project
-- **[Shadowheart](https://github.com/quanchobi/Shadowheart)/[Theseus](https://github.com/quanchobi/Theseus)** - Klipper configs for my custom 3D printers
-- **[Recipe Suggester](https://github.com/quanchobi/499-HumanDominoEffect-spring2025)** - CLI AI-based recipe suggester, using custom models + OpenAI API
-- **[Static Site Generator](https/github.com/quanchobi/static-site-generator)** - Simple static site generator that deploys to GitHub Pages
-## 💭 Philosophy
-
-I believe:
+I believe...
 - Open-source is based
-- Learn by doing
+- Never be afraid to learn
+- Always bet on yourself
+
+Connect with me...
+- [LinkedIn](https://www.linkedin.com/in/quanchobi/)
+- [Website](https://quanchobi.io)
+
 ---
 
 > *Maybe you have some bird ideas. Maybe that's the best you can do*
